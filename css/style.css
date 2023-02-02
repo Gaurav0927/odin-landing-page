@@ -91,5 +91,72 @@
     border-radius: 8px;
 }
 
+/* random information section */
+
+.random-info{
+    padding-top: 24px;
+    padding-bottom: 50px;
+}
+
+.random-info h2{
+    text-align: center;
+    padding: 24px 0;
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.row{
+    /* border: 1px solid green; */
+    margin: 24px 270px;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.content-random{
+    border: 1px solid black;
+    width: 300px;
+    height: 340px;
+    padding: 12px 20px;
+    border-radius: 4px;
+}
+
+.content-random img{
+    width: 100%;
+}
+
+.content-random p{
+    text-align: justify;
+    padding: 10px 0;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+/* quote */
+
+.quote{
+    background-color: #e5e7eb;
+    padding: 120px 0;
+}
+
+.quote p{
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.quote .author{
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 24px;
+    margin-left: 520px;
+}
+
+
+
+
 
 
