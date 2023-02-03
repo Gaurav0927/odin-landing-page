@@ -212,6 +212,27 @@
 .subscribe-content-right button:hover{
     background-color: green;
     color: white;
+    border: none;
+}
+
+/* footer */
+
+.footer{
+    background-color: #1f2937;
+    color: white;
+    padding: 16px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer span{
+    padding: 0 4px;
 }
 
 
